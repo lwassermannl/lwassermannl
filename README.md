@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lwassermannl
+- 👀 I’m interested in China and the Social Credit System (SCS)
+- 🌱 I’m currently learning Python for my dissertation
+- 💞️ I’m looking to collaborate on anything related to the SCS
+- 📫 How to reach me: lena-wassermann@web.de
